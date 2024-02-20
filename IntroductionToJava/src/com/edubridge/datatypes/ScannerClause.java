@@ -12,6 +12,6 @@ public class ScannerClause
 	   int Quantity = sc.nextInt();
 	   System.out.println("Enter price :");
 	   int city = sc.nextInt();
-	   System.out.println("product name"+pname+" \nQuantity"+Quantity+"\n price"+city);
+	   System.out.println("product name" +pname+"  \nQuantity" +Quantity+"\n price" +city);
    }
 }
